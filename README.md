@@ -7,7 +7,7 @@
 Sou hiper apaixonado por tecnologia e poder usar ela para ajudar as pessoas à resolverem seus problemas é sensacional.
 
 - Estudando para ser Full Stack
-- Atualmente sou Supp na *CBK Software*
+- Atualmente sou Suporte Avançado na *CBK Software*
 - Amo ajudar em projetos sociais
 - Trabalho com relatórios em Twig e outras tecnologias;
 - Iniciando com React e NodeJS
