@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunojsx)](https://www.linkedin.com/in/gabrielcastilhov/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcastilho70@gmail.com)](mailto:gabrielcastilho70@gmail.com) 
 
-### Fala galera linda :purple_heart:
-Sou hiper apaixonado por tecnologia e poder usar ela para ajudar as pessoas à resolverem seus problemas é sensacional.
+### Fala DEVS!! :purple_heart:
 
-- Estudando para ser Full Stack
-- Atualmente sou Suporte Avançado na *CBK Software*
+
+- DEV FRONT-END.
+- Atualmente sou Suporte Avançado e DEV FRONT-END na *CBK Software*
 - Amo ajudar em projetos sociais
 - Trabalho com relatórios em Twig e outras tecnologias;
 - Iniciando com React e NodeJS
