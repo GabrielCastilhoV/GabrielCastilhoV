@@ -6,9 +6,7 @@
 ### Fala DEVS!! :purple_heart:
 
 
-- DEV FRONT-END.
-- Atualmente sou Suporte Avançado e DEV FRONT-END na *CBK Software*
-- Amo ajudar em projetos sociais
-- Trabalho com relatórios em Twig e outras tecnologias;
+- Atualmente sou Suporte Avançado e DEV na *CBK Software*
+- Trabalho com JS, PHP e Twig;
 - Iniciando com React e NodeJS
-- Jogador de LOL (League of Legends)
+- Sempre estudando para evoluir!
