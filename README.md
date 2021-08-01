@@ -1,12 +1,32 @@
-## Gabriel castilho ##
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabrielCastilhoV)](https://github.com/GabrielCastilhoV)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunojsx)](https://www.linkedin.com/in/gabrielcastilhov/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcastilho70@gmail.com)](mailto:gabrielcastilho70@gmail.com) 
+## Hello I'm Gabriel Castilho ##
 
-### Fala DEVS!! :purple_heart:
+<div>
+  <a href="https://www.linkedin.com/in/gabrielcastilhov">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCastilhoV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCastilhoV&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-- Atualmente sou Suporte Avançado e DEV na *CBK Software*
-- Trabalho com JS, PHP e Twig;
-- Iniciando com React e NodeJS
-- Sempre estudando para evoluir!
+  ##
+
+<a href="https://www.instagram.com/gabriellcasttilho" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
+
+<a href = "mailto:gabrielcastilho70@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+  
+<a href="https://www.linkedin.com/in/gabrielcastilhov" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+  
+  
