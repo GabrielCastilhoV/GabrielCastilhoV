@@ -9,8 +9,6 @@
 I'm a Front End Engineer. I love to program, travel and play games.
 
 **About me:**
-
-- 👨🏻‍💻 I'm working at [Liqi](https://www.liqi.com.br);
 - 🎮 I love playing FPS;
 - 💬 Ask me about anything, I am happy to help;
   </br>
