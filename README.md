@@ -3,6 +3,7 @@
 #
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gabrielcastilhov)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrielcastilho70@gmail.com) 
 
 I'm a passionate Software Developer with a strong background in **team leadership** and **project management**. I specialize in **React** and **Node.js**, building scalable and efficient solutions.
 
